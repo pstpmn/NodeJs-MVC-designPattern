@@ -1,2 +1,2 @@
-# Node.js MVC Design Pattern
+# Node.js Express MVC Design Pattern
 Design By Kang (อัพเดท เปลียนแปลงโครงสร้าง ตามความเหมาะสม) 
